@@ -1,4 +1,3 @@
-from coisas_que_vou_implementar import *
 from sub_menu_estatísticas import *
 from sub_menu_participantes import *
 from submenu_eventos import *
