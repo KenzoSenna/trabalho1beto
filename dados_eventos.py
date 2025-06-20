@@ -5,5 +5,3 @@ eventos = [
     {"nome": "Hacking ético e sua Função", "data_realizacao": "", "tema_central": "Hacking Ético"},
     {"nome": "Design e UML", "data_realizacao": "", "tema_central": "Design"}
 ]
-
-qie feio
